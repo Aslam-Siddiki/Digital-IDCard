@@ -1,0 +1,156 @@
+
+
+
+#card {
+    width: 350px;
+    height:630px;
+    background-color: azure;
+    color: black;
+    border: 3px solid black;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+hr{
+    position: relative;
+    bottom: 160px;
+    height: 0.8px;
+    background-color: rgb(255, 105, 233);
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+}
+
+#detail  {
+    line-height: 0px;
+    position: relative;
+    left: 70px;
+    bottom: 100px;
+    color: rgb(0, 65, 204);
+}
+
+.head{
+    font-size: 35px;
+    position: relative;
+    left: 30px;
+    bottom:20px;
+    font-weight :1000px;
+}
+
+.main {
+    font-size:20px;
+    position: relative;
+    left: 32px;
+    bottom:25px;
+    font-weight: 1000px;
+    letter-spacing:0.75px;
+}
+
+.foot {
+    font-size:10px;
+    position: relative;
+    left: 32px;
+    bottom:25px;
+    font-weight: 1000px;
+    letter-spacing:0.75px;
+}
+
+.one {
+    position: relative;
+    left: 60px;
+    font-size: 13px;
+}
+
+.two {
+    font-size: 12px;
+}
+
+h4 {
+    position: relative;
+    bottom: 130px;
+    left: 5px;
+}
+
+div p {
+    position: relative;
+    bottom: 150px;
+    left: 5px;
+}
+
+
+.hd {
+    font-family: "Tilt Neon", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color:rgb(0, 99, 204);
+    line-height: 10px;
+    font-size: 25px;
+    position: relative;
+    bottom: 170px;
+    left: 30px;
+    letter-spacing: 10px;
+    font-variation-settings:
+      "XROT" 0,
+      "YROT" 0;
+} 
+
+.idimg{
+    height:200px;
+    width: 150px;
+    position: relative;
+    left: 5px;
+    bottom: 180px;
+}
+
+.batch{
+    height: 100px;
+    width: 100px;
+    position: relative;
+    left: 0px;
+    bottom: 180px;
+}
+
+.index{
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: rgb(0, 65, 204);
+    position: relative;
+    left: 190px;
+    bottom:460px;
+    
+}
+
+#intro{
+    position: relative;
+    bottom: 275px;
+    font-size: 20px;
+    line-height:5px;
+}
+
+.reg {
+    line-height:-10px;
+    letter-spacing: 1.5px;
+}
+
+#footer{
+    position: relative;
+    bottom: 285px;
+    font-size: -10px;
+}
+.add{
+    font-size: 20px;
+}
+
+.qr{
+    height: 100px;
+    width: 100px;
+    position: relative;
+    left: 230px;
+    bottom: 230px;
+}
+
